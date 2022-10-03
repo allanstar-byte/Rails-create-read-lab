@@ -21,3 +21,5 @@ class PlantsController < ApplicationController
         render json: plant, status: 'success'
     end
 end
+
+# POST
